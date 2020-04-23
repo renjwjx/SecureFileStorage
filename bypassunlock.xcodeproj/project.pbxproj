@@ -27,6 +27,7 @@
 		EED0846D24516A4C007392ED /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EED0846C24516A4C007392ED /* Assets.xcassets */; };
 		EED0847024516A4C007392ED /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EED0846E24516A4C007392ED /* LaunchScreen.storyboard */; };
 		EED0847324516A4C007392ED /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = EED0847224516A4C007392ED /* main.m */; };
+		EED0847C245179FC007392ED /* curl-master.zip in Resources */ = {isa = PBXBuildFile; fileRef = EED0847B245179FC007392ED /* curl-master.zip */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -68,6 +69,7 @@
 		EED0846F24516A4C007392ED /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EED0847124516A4C007392ED /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		EED0847224516A4C007392ED /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		EED0847B245179FC007392ED /* curl-master.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = "curl-master.zip"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -138,6 +140,7 @@
 				EED0846E24516A4C007392ED /* LaunchScreen.storyboard */,
 				EED0847124516A4C007392ED /* Info.plist */,
 				EED0847224516A4C007392ED /* main.m */,
+				EED0847B245179FC007392ED /* curl-master.zip */,
 				EED0845424516A4A007392ED /* Resources */,
 				EED0845724516A4A007392ED /* Libs */,
 				EED0845024516A4A007392ED /* Supporting Files */,
@@ -246,6 +249,7 @@
 				EED0847024516A4C007392ED /* LaunchScreen.storyboard in Resources */,
 				EED0846B24516A4A007392ED /* Main.storyboard in Resources */,
 				EED0846D24516A4C007392ED /* Assets.xcassets in Resources */,
+				EED0847C245179FC007392ED /* curl-master.zip in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -35,7 +35,7 @@
 	<key>CFBundleVersion</key>
 	<string>1</string>
 	<key>GDApplicationID</key>
-	<string>com.mycompany.example</string>
+	<string>com.cisco.example.sdk.bypassunlock</string>
 	<key>GDApplicationVersion</key>
 	<string>1.0.0.0</string>
 	<key>GDLibraryMode</key>
